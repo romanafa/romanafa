@@ -1,6 +1,5 @@
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=039C8B&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Romana)](https://git.io/typing-svg)-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=039C8B&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=039C8B&center=true&vCenter=true&random=false&width=435&lines=My+name+is+Romana.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=039C8B&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Romana)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on this page.
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanafa&show_icons=true&theme=gotham&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) 
