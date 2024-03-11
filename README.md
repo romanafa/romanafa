@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanafa&show_icons=true&theme=gotham&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanafa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&random=false&width=435&lines=Cyber+engineering+student)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-romanafa.vercel.app/api?username=romanafa&show_icons=true&theme=gotham&rank_icon=github" />
