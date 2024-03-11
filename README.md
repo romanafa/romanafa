@@ -4,8 +4,7 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-romanafa.vercel.app/api?username=romanafa&show_icons=true&theme=gotham&rank_icon=github" />
 </a>
@@ -14,10 +13,11 @@
 </a>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 :construction_worker_woman: I am still working on this readme! :construction_worker_woman:
+<br/>
+<br/>
 ## 🛠️ My Favorite Tools
 
 <br/>
