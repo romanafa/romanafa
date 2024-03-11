@@ -3,13 +3,18 @@
 I am currently studying cyber engineering to broaden my knowledge within the data field. I have completed a bachelor's degree in computer science and have been passionate about solving problems and trying new things ever since! 
 <br/>
 <br/>
+<br/>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-romanafa.vercel.app/api?username=romanafa&show_icons=true&theme=gotham&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-romanafa.vercel.app/api/top-langs/?username=romanafa&layout=compact&langs_count=8&theme=gotham&card_width=320" />
 </a>
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 🛠️ My Favorite Tools
 
