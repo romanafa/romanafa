@@ -20,6 +20,11 @@
 :construction_worker_woman: I am still working on this readme! :construction_worker_woman:
 ## 🛠️ My Favorite Tools
 
+<br/>
+<br/>
+<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/romanafa/romanafa/output/snake.svg" alt="Snake animation" />
 
 
 <!--
