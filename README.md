@@ -3,7 +3,6 @@
 :nerd_face: I am currently studying cyber engineering to broaden my knowledge within the data field. I have completed a bachelor's degree in computer science and have been passionate about solving problems and trying new things ever since!
 
 <br/>
-<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-romanafa.vercel.app/api?username=romanafa&show_icons=true&theme=gotham&rank_icon=github" />
@@ -46,7 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-<br/>
 <br/>
 
 ### :computer: Software and tools
@@ -94,7 +92,6 @@
 <br/>
 <br/>
 <!--<img src="https://raw.githubusercontent.com/romanafa/romanafa/output/snake.svg" alt="Snake animation" />-->
-
 
 <!--
 **romanafa/romanafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
